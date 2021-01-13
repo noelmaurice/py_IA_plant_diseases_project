@@ -1,0 +1,275 @@
+{
+    "Apple___Apple_scab": {
+        "Indice": 0,
+        "Plant": "Pommier",
+        "Disease": "Tavelure",
+        "url": "apple",
+        "tag": "Apple scab"
+    },
+    "Apple___Black_rot": {
+        "Indice": 1,
+        "Plant": "Pommier",
+        "Disease": "Pourriture noire",
+        "url": "apple",
+        "tag": "Black rot"
+    },
+    "Apple___Cedar_apple_rust": {
+        "Indice": 2,
+        "Plant": "Pommier",
+        "Disease": "Rouille de virginie",
+        "url": "apple",
+        "tag": "Cedar apple rust"
+    },
+    "Apple___healthy": {
+        "Indice": 3,
+        "Plant": "Pommier",
+        "Disease": "Aucune",
+        "url": "apple",
+        "tag": "healthy"
+    },
+    "Blueberry___healthy": {
+        "Indice": 4,
+        "Plant": "Myrtille",
+        "Disease": "Aucune",
+        "url": "blueberry",
+        "tag": "healthy"
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "Indice": 5,
+        "Plant": "Cerise et griotte",
+        "Disease": "O\u00efdium",
+        "url": "cherry-including-sour",
+        "tag": "Powdery mildew"
+    },
+    "Cherry_(including_sour)___healthy": {
+        "Indice": 6,
+        "Plant": "Cerise et griotte",
+        "Disease": "Aucune",
+        "url": "cherry-including-sour",
+        "tag": "healthy"
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "Indice": 7,
+        "Plant": "Ma\u00efs",
+        "Disease": "Cercosporiose",
+        "url": "corn-maize",
+        "tag": "Cercospora leaf spot (Gray leaf spot)"
+    },
+    "Corn_(maize)___Common_rust_": {
+        "Indice": 8,
+        "Plant": "Ma\u00efs",
+        "Disease": "Rouille commune",
+        "url": "corn-maize",
+        "tag": "Common rust"
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "Indice": 9,
+        "Plant": "Ma\u00efs",
+        "Disease": "Helminthosporiose du nord",
+        "url": "corn-maize",
+        "tag": "Northern Leaf Blight"
+    },
+    "Corn_(maize)___healthy": {
+        "Indice": 10,
+        "Plant": "Ma\u00efs",
+        "Disease": "Aucune",
+        "url": "corn-maize",
+        "tag": "healthy"
+    },
+    "Grape___Black_rot": {
+        "Indice": 11,
+        "Plant": "Vigne",
+        "Disease": "Pourriture noire",
+        "url": "grape",
+        "tag": "Black rot"
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "Indice": 12,
+        "Plant": "Vigne",
+        "Disease": "Maladie du bois",
+        "url": "grape",
+        "tag": "Esca (Black Measles or Spanish Measles)"
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "Indice": 13,
+        "Plant": "Vigne",
+        "Disease": "Isariopsis",
+        "url": "grape",
+        "tag": "Leaf blight (Isariopsis Leaf Spot)"
+    },
+    "Grape___healthy": {
+        "Indice": 14,
+        "Plant": "Vigne",
+        "Disease": "Aucune",
+        "url": "grape",
+        "tag": "healthy"
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "Indice": 15,
+        "Plant": "Oranger",
+        "Disease": "Verdissement",
+        "url": "orange",
+        "tag": "Huanglongbing (Citrus greening)"
+    },
+    "Other": {
+        "Indice": 16,
+        "Plant": "L'image n'est pas une feuille de plante",
+        "Disease": "Non d\u00e9termin\u00e9e",
+        "url": "orange",
+        "tag": "Huanglongbing (Citrus greening)"
+    },
+    "Peach___Bacterial_spot": {
+        "Indice": 17,
+        "Plant": "P\u00eacher",
+        "Disease": "Bact\u00e9riose",
+        "url": "peach",
+        "tag": "Bacterial spot"
+    },
+    "Peach___healthy": {
+        "Indice": 18,
+        "Plant": "P\u00eacher",
+        "Disease": "Aucune",
+        "url": "peach",
+        "tag": "healthy"
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "Indice": 19,
+        "Plant": "Poivron",
+        "Disease": "Bact\u00e9riose",
+        "url": "pepper-bell",
+        "tag": "Bacterial spot"
+    },
+    "Pepper,_bell___healthy": {
+        "Indice": 20,
+        "Plant": "Poivron",
+        "Disease": "Aucune",
+        "url": "pepper-bell",
+        "tag": "healthy"
+    },
+    "Potato___Early_blight": {
+        "Indice": 21,
+        "Plant": "Pomme de terre",
+        "Disease": "Alternariose",
+        "url": "potato",
+        "tag": "Potato Early Blight"
+    },
+    "Potato___Late_blight": {
+        "Indice": 22,
+        "Plant": "Pomme de terre",
+        "Disease": "Mildiou",
+        "url": "potato",
+        "tag": "Potato Late Blight"
+    },
+    "Potato___healthy": {
+        "Indice": 23,
+        "Plant": "Pomme de terre",
+        "Disease": "Aucune",
+        "url": "potato",
+        "tag": "healthy"
+    },
+    "Raspberry___healthy": {
+        "Indice": 24,
+        "Plant": "Framboisier",
+        "Disease": "Aucune",
+        "url": "raspberry",
+        "tag": "healthy"
+    },
+    "Soybean___healthy": {
+        "Indice": 25,
+        "Plant": "Soja",
+        "Disease": "Aucune",
+        "url": "soybean",
+        "tag": "healthy"
+    },
+    "Squash___Powdery_mildew": {
+        "Indice": 26,
+        "Plant": "Courge",
+        "Disease": "O\u00efdium",
+        "url": "strawberry",
+        "tag": "Powdery mildew"
+    },
+    "Strawberry___Leaf_scorch": {
+        "Indice": 27,
+        "Plant": "Fraisier",
+        "Disease": "Br\u00fblure",
+        "url": "strawberry",
+        "tag": "Leaf scorch"
+    },
+    "Strawberry___healthy": {
+        "Indice": 28,
+        "Plant": "Fraisier",
+        "Disease": "Aucune",
+        "url": "strawberry",
+        "tag": "healthy"
+    },
+    "Tomato___Bacterial_spot": {
+        "Indice": 29,
+        "Plant": "Tomate",
+        "Disease": "Bact\u00e9riose",
+        "url": "tomato",
+        "tag": "Bacterial spot"
+    },
+    "Tomato___Early_blight": {
+        "Indice": 30,
+        "Plant": "Tomate",
+        "Disease": "Alternariose",
+        "url": "tomato",
+        "tag": "Early blight"
+    },
+    "Tomato___Late_blight": {
+        "Indice": 31,
+        "Plant": "Tomate",
+        "Disease": "Mildiou",
+        "url": "tomato",
+        "tag": "Late blight"
+    },
+    "Tomato___Leaf_Mold": {
+        "Indice": 32,
+        "Plant": "Tomate",
+        "Disease": "Cladosporiose",
+        "url": "tomato",
+        "tag": "Leaf Mold"
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "Indice": 33,
+        "Plant": "Tomate",
+        "Disease": "Septoriose",
+        "url": "tomato",
+        "tag": "Septoria leaf spot"
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "Indice": 34,
+        "Plant": "Tomate",
+        "Disease": "T\u00e9tranyque",
+        "url": "tomato",
+        "tag": "Spider mites (Two-spotted spider mite)"
+    },
+    "Tomato___Target_Spot": {
+        "Indice": 35,
+        "Plant": "Tomate",
+        "Disease": "Corynesporiose",
+        "url": "tomato",
+        "tag": "Target Spot"
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "Indice": 36,
+        "Plant": "Tomate",
+        "Disease": "Virus des feuilles jaunes en cuill\u00e8re",
+        "url": "tomato",
+        "tag": "Tomato Yellow Leaf Curl disease"
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "Indice": 37,
+        "Plant": "Tomate",
+        "Disease": "Virus Mosa\u00efque",
+        "url": "tomato",
+        "tag": "Tomato mosaic virus"
+    },
+    "Tomato___healthy": {
+        "Indice": 38,
+        "Plant": "Tomate",
+        "Disease": "Aucune",
+        "url": "tomato",
+        "tag": "healthy"
+    }
+}
