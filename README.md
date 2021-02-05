@@ -1,4 +1,24 @@
+# Introduction
+
+Ce projet est un projet pédagogique. En règle générale, par souci de discrétion et de respect pour les employeurs, les projets professionnels ne sont pas disponibles sur ce repository.
+
+# Copie d'écrans de l'application 
+
+## Affichage d'une prédiction faite à partir de la photo d'une plante - Page 1/2
+
+<img src="doc/demo/prediction_1_2.png" />
+
+## Affichage d'une prédiction faite à partir de la photo d'une plante - Page 2/2
+
+<img src="doc/demo/prediction_2_2.png" />
+
+## Affichage d'une segmentation et de l'identification de la composante principale de l'image faite à partir de la photo d'une plante
+
+<img src="doc/demo/segmentation_bounding_box.png " />
+
+
 # projet Pystill
+
 ## Equipe
 Ce projet est le fruit de la collaboration de :
   * Loïc AXILAIS  
