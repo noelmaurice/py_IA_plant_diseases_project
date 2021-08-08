@@ -19,14 +19,6 @@ Ce projet est un projet pédagogique. En règle générale, par souci de discré
 
 # projet Pystill
 
-## Equipe
-Ce projet est le fruit de la collaboration de :
-  * Loïc AXILAIS  
-  * Mathis RALAIVAO  
-  * Noël MAURICE  
-
-Avec le support bienveillant de Thomas BOEHLER (chef de projet DataScientest)
-
 ## Introduction
 Dans le cadre de la formation **Data Scientist - Bootcamp Octobre 2020**, l'équipe a retenu ce projet pour valider son cursus. L’objectif du projet est de localiser et classifier l’espèce d’une plante dans une image.     
 Une fois la classification faite, il retourne à l’utilisateur une description de la plante et identifie les possibles maladies. L’application est donc capable à partir d’une photographie de donner une succession d’informations à l’utilisateur.
