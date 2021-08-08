@@ -1,6 +1,8 @@
-# Introduction
+# projet Pystill
 
-Ce projet est un projet pédagogique. En règle générale, par souci de discrétion et de respect pour les employeurs, les projets professionnels ne sont pas disponibles sur ce repository.
+## Introduction
+Ce projet a été réalisé dans le cadre de la formation **Data Scientist - Bootcamp Octobre 2020**. L’objectif du projet est de localiser, d'identifier et de classifier l’espèce d’une plante dans une image.     
+Une fois la classification faite, il retourne à l’utilisateur une description de la plante, indique si la plante est saine ou non, et identifie les possibles maladies. L’application est donc capable à partir d’une photographie de donner une succession d’informations précises et utiles à l’utilisateur.
 
 # Copie d'écrans de l'application 
 
@@ -15,13 +17,6 @@ Ce projet est un projet pédagogique. En règle générale, par souci de discré
 ## Affichage d'une segmentation et de l'identification de la composante principale de l'image faite à partir de la photo d'une plante
 
 <img src="doc/demo/segmentation_bounding_box.png " />
-
-
-# projet Pystill
-
-## Introduction
-Ce projet a été réalisé dans le cadre de la formation **Data Scientist - Bootcamp Octobre 2020**. L’objectif du projet est de localiser, d'identifier et de classifier l’espèce d’une plante dans une image.     
-Une fois la classification faite, il retourne à l’utilisateur une description de la plante, indique si la plante est saine ou non, et identifie les possibles maladies. L’application est donc capable à partir d’une photographie de donner une succession d’informations précises et utiles à l’utilisateur.
 
 ## Contenu du référentiel
 Ce référentiel GitHub contient les dossiers suivants :
